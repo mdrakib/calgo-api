@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cAlgo.API</id>
+    <version>1.0.0</version>
+    <authors>Rakib</authors>
+    <owners>Rakib</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Nuget package for cAlgo.API</description>
+    <releaseNotes>Initial version</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>cTrader cAlgo</tags>
+  </metadata>
+</package>
